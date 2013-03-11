@@ -3,13 +3,12 @@
     "repositories": [
         {
 			"type" : "git",
-			"url" : "https://github.com/codepress/zend-framework-1"
+			"url" : "https://github.com/codepress/zend-framework-1.git"
 		}
     ],
-	"minimum-stability" : "stable",
 	"version" : "1.12.2",
 	"require": {
         "php": ">=5.2.3",
-		"codepress/zend-framework-1" : "master"
+		"codepress/zend-framework-1" : "dev-master"
     }
 }
