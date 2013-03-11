@@ -6,7 +6,6 @@
 			"url" : "https://github.com/codepress/zend-framework-1.git"
 		}
     ],
-	"version" : "1.12.2",
 	"require": {
         "php": ">=5.2.3",
     }
