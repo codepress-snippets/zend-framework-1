@@ -1,11 +1,5 @@
 {
 	"name": "codepress/zendframework",
-    "repositories": [
-        {
-			"type" : "git",
-			"url" : "https://github.com/codepress/zend-framework-1.git"
-		}
-    ],
 	"require": {
         "php": ">=5.2.3",
     }
