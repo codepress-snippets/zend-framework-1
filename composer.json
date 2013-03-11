@@ -1,19 +1,13 @@
 {
-    "config": {
-        "vendor-dir": "codepress"
-    },
+	"name": "codepress/zendframework",
     "repositories": [
         {
-            "type": "package",
-            "package": {
-                "name": "zendframework",
-                "version": "1.12.2",
-                "source": {
-                    "url": "https://github.com/codepress/zend-framework-1.git",
-                    "type": "git",
-                    "reference": "master"
-                }
-            }
-        }
+			"type" : "git",
+			"url" : "https://github.com/codepress/zend-framework-1.git",
+		}
     ],
+	"version" : "1.12.2",
+	"require": {
+        "php": ">=5.2.3"
+    }
 }
