@@ -1,5 +1,5 @@
 {
-	"name": "codepress/zendframework",
+	"name": "davidmosterd/zendframework",
 	"require": {
         "php": ">=5.2.3"
     }
